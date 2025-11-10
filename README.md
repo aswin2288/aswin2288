@@ -23,7 +23,7 @@
 ### 💻 Languages & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=dotnet,cs,js,vscode,visualstudio,react,mysql,java,python,postgresql,html,css,tailwind,bootstrap,git,github" />
+  <img src="https://skillicons.dev/icons?i=dotnet,cs,js,vscode,visualstudio,ubuntu,react,mysql,java,python,postgresql,html,css,tailwind,bootstrap,git,github" />
 </p>
 
 ---
