@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Aswin A</h1>
-<!-- <h3 align="center"><a href="https://github.com/delvinjoseph13"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&width=435&lines=A+Passionate+Learner+from+India;Programmer+%7C+Developer+%7C+Designer+%7C" alt="Typing SVG" /></a></h3>
+<!-- <h3 align="center"><a href="https://github.com/aswin2288"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&width=435&lines=A+Passionate+Learner+from+India;Programmer+%7C+Developer+%7C+Designer+%7C" alt="Typing SVG" /></a></h3>
 --- -->
 <!-- <img align="right" alt="coding" width="430" hight="100"  src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif">
  -->
@@ -23,7 +23,7 @@
 ### 💻 Languages & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=dotnet,js,react,sql,mysql,java,python,postgresql,html,css,tailwind,bootstrap,git,github,vscode,visualstudio" />
+  <img src="https://skillicons.dev/icons?i=dotnet,js,react,C#,mysql,java,python,postgresql,html,css,tailwind,bootstrap,git,github,vscode,visualstudio" />
 </p>
 
 ---
@@ -31,12 +31,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=delvinjoseph13&show_icons=true&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=delvinjoseph13&layout=compact&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=aswin2288&show_icons=true&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aswin2288&layout=compact&theme=tokyonight" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=delvinjoseph13&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aswin2288&theme=tokyonight" height="180"/>
 </p>
 
 ---
@@ -45,14 +45,14 @@
 ### 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=delvinjoseph13&theme=react-dark&area=true&hide_border=true" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=aswin2288&theme=react-dark&area=true&hide_border=true" />
 </p>
 -->
 
 ### 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=delvinjoseph13&theme=react-dark&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aswin2288&theme=react-dark&area=true&hide_border=true" />
 </p>
 
 
@@ -63,11 +63,11 @@
 <p align="left">
   <a href="mailto:aswina2016@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/aswin2288"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <!-- <a href="https://www.linkedin.com/in/delvinjoseph13"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a> -->
+  <!-- <a href="https://www.linkedin.com/in/aswin2288"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a> -->
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=delvinjoseph13&label=Profile%20views&color=0e75b6&style=flat" alt="delvinjoseph13" />
+  <img src="https://komarev.com/ghpvc/?username=aswin2288&label=Profile%20views&color=0e75b6&style=flat" alt="aswin2288" />
 </p>
